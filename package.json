@@ -1,0 +1,29 @@
+{
+  "name": "spacejump",
+  "version": "1.0.0",
+  "description": "Space shooter game in the web browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everettcaleb/spacejump.git"
+  },
+  "keywords": [
+    "space",
+    "shooter",
+    "sidescroller",
+    "2d",
+    "game"
+  ],
+  "author": "Caleb Everett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everettcaleb/spacejump/issues"
+  },
+  "homepage": "https://github.com/everettcaleb/spacejump#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
