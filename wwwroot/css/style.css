@@ -1,0 +1,12 @@
+html, body {
+  background: #000;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+canvas#canvas {
+  background: #f00;
+  position: fixed;
+  top: 0;
+}

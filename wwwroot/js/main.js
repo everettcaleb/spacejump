@@ -1,3 +1,5 @@
-require([], function() {
-  alert('main loaded with modules!');
+require([
+  'js/viewport'
+], function() {
+  //TODO!!!
 });
